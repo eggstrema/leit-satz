@@ -29,6 +29,8 @@ Begegne Allen in Liebe. Ignoriere Etikette.
 ### Teile Großzügig
 Behalte, was Du benötigst. Verschenke, was Du nicht benötigst. Stelle Bedürftigkeit nicht in Frage.
 
+> Teilen macht Freu(n)de.
+
 ### Hilf Bewusst
 Setze Deine Kraft gezielt ein. Setze Grenzen. Stelle Bedürftigkeit nicht in Frage.
 
@@ -39,7 +41,10 @@ Führe Andere mit ruhiger Hand. Löse Ihre Zweifel auf. Gib ihnen Sicherheit.
 Teile Freude ehrlich und unverblümt. Sei stoz auf Deine Fortschritte. Lobe Helfende öffentlich.
 
 ### Vergebe Zeitnah
-Vergebe Allen immer. Setze Grenzen bei inakzeptablem Verhalten.
+
+> Die Anderen sind auch nur Leute.
+
+Sei Umsichtig. Vergebe Allen immer. Setze Grenzen bei inakzeptablem Verhalten.
 
 ### Merke Langatmig
 Vergiss nicht, wer Dich wie verletzt hat. Ziehe Konsequenzen durch Abgrenzung oder Absprachen.
@@ -80,12 +85,15 @@ Bleibe Dir bewusst, dass Du nichts weißt, weil alles im Fluss ist. Nehme neue I
 
 ### Erforsche Furchtlos
 
+> Unentdecktes birgt Unerahntes.
+
 ### Erschaffe Schamlos
 Sei frei in Deinem Ausdruck. Lass Deine Gefühle sprechen. Plane dafür genug Zeit mit ein.
 
 ### Erledige Gewissenhaft
-Mache stetig kleine Fortschritte. Sei sorgfältig. Schließe Aktivitäten ab.
+Mache stetig kleine Fortschritte. Sei sorgfältig. Zeige Hingabe. Schließe Aktivitäten ab.
 
+> Wer's eilig hat, macht besser langsam.
 
 ## Glaube Fest
 
