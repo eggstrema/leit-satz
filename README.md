@@ -1,92 +1,93 @@
 # Leit Satz
 
 
-
 ## Lebe Erfüllt
-Lebe im hier und jetzt. Nehme wahr, ohne zu werten. Erfreue Dich, aber grübele oder grolle nicht.
+Lebe im hier und jetzt. Nehme wertungsfrei wahr. Erfreue Dich und Andere. Finde Lösungen, aber grübele oder grolle nicht.
 
 ### Schlafe Regelmäßig
-Gehe zeitig schlafen. Am besten täglich zur selben Zeit. Lass Deinen Körper entscheiden, wann die Schlafenszeit vorüber ist.
+Gehe zeitig schlafen. Am besten täglich zur selben Zeit. Lass Deinen Körper entscheiden, wann die Schlafenszeit vorüber ist. Halte Dir dafür genug Zeit bereit.
 
 ### Iss Gesund
+Suche Nahrung, die Dir gut tut. Meide Nahrung, die Deinen Körper belastet. Spüre dazu genau hin, wie Dein Körper reagiert. Plane Abwechslung mit ein und nutze Gelegenheiten, um Neues zu probieren.  Iss drei bis fünfmal täglich. Am besten zu festen Zeiten. Lass Deinen Körper entscheiden, wann er genug hat. Meide Nahrungsmittel, die ein schlechtes Gewissen verursachen. Informiere Dich dazu über Herstellungsbedingungen und -kosten.
 
-#### Ausgewogen
-Sorge dafür, dass der Körper alle benötigten Nährstoffe in der benötigten Menge bekommt. Plane viel Abwechslung mit ein.
-
-#### Ausgewählt
-Meide Nahrung, die Deinen Körper belastet.
-
-#### Genug
-Iss drei bis fünfmal täglich. Lass Deinen Körper entscheiden, wann er genug hat.
-
-#### Ethisch
-Meide Nahrungsmittel, die ein schlechtes Gewissen verursachen. Informiere Dich über Herstellungsbedingungen und -kosten Deiner Nahrung.
-
-### Ruhe Angemessen
-Ruhe zur Erholung, nicht zur Vermeidung.
+### Ruhe Erholsam
+Ruhe zur Erholung und plane Pausen mit ein. Lass Deinen Körper entscheiden, wann die Ruhe vorüber ist. Sei lebendig bei Erledigungen.
 
 ### Bewege Dich Kindlich
-Fühle den Spaß an der Bewegung - wie ein fünfjähriges Kind. Meide monotone Qualen.
+Suche den Spaß an der Bewegung und meide monotone Qualen. Plane regelmäßige Bewegung mit ein. Lasse Deinen Körper entscheiden, wann er genug hat. Halte Dir dafür genug Zeit bereit.
 
 ### Schreite Aufrecht
-Bleibe im hier und jetzt. Lasse Dich nicht von Furch leiten.
+Beschreite Deinen Weg mutig und stolz. Nur Du kannst ihn gehen. Bleibe im hier und jetzt. Sei aufmerksam und wertungsfrei. Nimm Dir den Raum, den Du benötigst. 
 
 ### Reinige Unmittelbar
-Plane so dass fertig und erledigt eins werden. Nutze Wartepausen. 
+Hinterlasse Bereiche in tadellosem Zustand. Oder zumindest sauberer als Du sie vorgefunden hast. Verlasse Bereiche erst, wenn alles erledigt ist. Nutze dazu Wartezeiten in Abläufen. 
+
 
 ## Liebe Innig
-
+Begegne Allen in Liebe. Ignoriere Etikette.
 
 ### Teile Großzügig
+Behalte, was Du benötigst. Verschenke, was Du nicht benötigst. Stelle Bedürftigkeit nicht in Frage.
 
 ### Hilf Bewusst
+Setze Deine Kraft gezielt ein. Setze Grenzen. Stelle Bedürftigkeit nicht in Frage.
 
 ### Bekräftige Ruhig
+Führe Andere mit ruhiger Hand. Löse Ihre Zweifel auf. Gib ihnen Sicherheit.
 
 ### Zelebriere Befreit
+Teile Freude ehrlich und unverblümt. Sei stoz auf Deine Fortschritte. Lobe Helfende öffentlich.
 
 ### Vergebe Zeitnah
+Vergebe Allen immer. Setze Grenzen bei inakzeptablem Verhalten.
 
 ### Merke Langatmig
-
+Vergiss nicht, wer Dich wie verletzt hat. Ziehe Konsequenzen durch Abgrenzung oder Absprachen.
 
 
 ## Umarme Täglich
-
+Täglich. Fühle Dich geliebt und liebe Andere.
 
 ### Spreche Sanft
+Lobe Fortschritte. Verschweige Ausrutscher.
 
 ### Höre Hin
+Bejahe Aussagen. Frage nach. Plane dafür genug Zeit mit ein. Unterstelle nicht.
 
 ### Lächle Oft
+Stecke Andere an. Gebe ihnen Raum zum Öffnen. Verurteile nicht. Fühle mit.
 
 ### Bewundere Ehrlich
+Lobe Fortschritte. Lobe Auswahl. Suche Bewundernswertes. Plane dafür genügend Zeit mit ein.
 
 ### Entschuldige Dich Zeitnah
+Reflektiere Interaktionen. Frage nach, wie die Anderen es wahrgenommen haben. Sei aufrichtig in Deinen Entschuldigungen und überbringe sie zügig.
 
 ### Erscheine Rechtzeitig
-
+Lass Andere nicht auf Dich warten. Überrasche sie, wenn es sie erfreut. 
 
 
 ## Wachse Stetig
-
+Mache jeden Tag Fortschritte in jedem Bereich. Plane dafür genug Zeit mit ein.
 
 ### Lerne Strebsam
 
 ### Lies Weise
+Suche Quellen, die Dich wachsen lassen. Meide jene, die Deine Gefühle manipulieren.
 
 ### Staune Oft
+Bleibe Dir bewusst, dass Du nichts weißt, weil alles im Fluss ist. Nehme neue Informationen wohlwollend auf. Frage nach.
 
 ### Erforsche Furchtlos
 
 ### Erschaffe Schamlos
+Sei frei in Deinem Ausdruck. Lass Deine Gefühle sprechen. Plane dafür genug Zeit mit ein.
 
 ### Erledige Gewissenhaft
-
+Mache stetig kleine Fortschritte. Sei sorgfältig. Schließe Aktivitäten ab.
 
 
 ## Glaube Fest
-
 
 ### Suche Wahrhaftig
 
