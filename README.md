@@ -4,13 +4,13 @@
 * * *
 
 ## Lebe Erfüllt
-Lebe im hier und jetzt. Nehme wertungsfrei wahr. Erfreue Dich und Andere. Finde Lösungen, aber grübele oder grolle nicht.
+Lebe im hier und jetzt. Nehme wertungsfrei wahr. Erfreue Dich und Andere. Suche Lösungen, meide Grübeln und Grollen.
 
 ### Schlafe Regelmäßig
 Gehe zeitig schlafen. Am besten täglich zur selben Zeit. Lass Deinen Körper entscheiden, wann die Schlafenszeit vorüber ist. Halte Dir dafür genug Zeit bereit.
 
 ### Iss Gesund
-Suche Nahrung, die Dir gut tut. Meide Nahrung, die Deinen Körper belastet. Spüre dazu genau hin, wie Dein Körper reagiert. Plane Abwechslung mit ein und nutze Gelegenheiten, um Neues zu probieren.  Iss drei bis fünfmal täglich. Am besten zu festen Zeiten. Lass Deinen Körper entscheiden, wann er genug hat. Meide Nahrungsmittel, die ein schlechtes Gewissen verursachen. Informiere Dich dazu über Herstellungsbedingungen und -kosten.
+Suche Nahrung, die Dir gut tut. Meide Nahrung, die Deinen Körper belastet. Spüre dazu genau hin, wie Dein Körper reagiert. Plane Abwechslung mit ein und nutze Gelegenheiten, um Neues zu probieren. Iss drei bis fünf mal täglich. Am besten zu festen Zeiten. Lass Deinen Körper entscheiden, wann er genug hat. Meide Nahrungsmittel, die ein schlechtes Gewissen verursachen. Informiere Dich dazu über Herstellungsbedingungen und -kosten.
 
 ### Ruhe Erholsam
 Ruhe zur Erholung und plane Pausen mit ein. Lass Deinen Körper entscheiden, wann die Ruhe vorüber ist. Sei lebendig bei Erledigungen.
