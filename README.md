@@ -1,6 +1,8 @@
 # Leit Satz
 
 
+* * *
+
 ## Lebe Erfüllt
 Lebe im hier und jetzt. Nehme wertungsfrei wahr. Erfreue Dich und Andere. Finde Lösungen, aber grübele oder grolle nicht.
 
@@ -22,6 +24,8 @@ Beschreite Deinen Weg mutig und stolz. Nur Du kannst ihn gehen. Bleibe im hier u
 ### Reinige Unmittelbar
 Hinterlasse Bereiche in tadellosem Zustand. Oder zumindest sauberer als Du sie vorgefunden hast. Verlasse Bereiche erst, wenn alles erledigt ist. Nutze dazu Wartezeiten in Abläufen. 
 
+
+* * *
 
 ## Liebe Innig
 Begegne Allen in Liebe. Ignoriere Etikette.
@@ -50,6 +54,8 @@ Sei Umsichtig. Vergebe Allen immer. Setze Grenzen bei inakzeptablem Verhalten.
 Vergiss nicht, wer Dich wie verletzt hat. Ziehe Konsequenzen durch Abgrenzung oder Absprachen.
 
 
+* * *
+
 ## Umarme Täglich
 Täglich. Fühle Dich geliebt und liebe Andere.
 
@@ -71,6 +77,8 @@ Reflektiere Interaktionen. Frage nach, wie die Anderen es wahrgenommen haben. Se
 ### Erscheine Rechtzeitig
 Lass Andere nicht auf Dich warten. Überrasche sie, wenn es sie erfreut. 
 
+
+* * *
 
 ## Wachse Stetig
 Mache jeden Tag Fortschritte in jedem Bereich. Plane dafür genug Zeit mit ein.
@@ -94,6 +102,9 @@ Sei frei in Deinem Ausdruck. Lass Deine Gefühle sprechen. Plane dafür genug Ze
 Mache stetig kleine Fortschritte. Sei sorgfältig. Zeige Hingabe. Schließe Aktivitäten ab.
 
 > Wer's eilig hat, macht besser langsam.
+
+
+* * *
 
 ## Glaube Fest
 
