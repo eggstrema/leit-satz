@@ -1,12 +1,7 @@
 # Leit Satz
 
 ## [Lebe Erfüllt](./lebe-erfuellt.html)
-* Schlafe Regelmäßig
-* Iss Gesund
-* Ruhe Erholsam
-* Bewege Dich Kindlich
-* Schreite Aufrecht
-* Reinige Unmittelbar
+> Schlafe Regelmäßig. Iss Gesund. Ruhe Erholsam. Bewege Dich Kindlich. Schreite Aufrecht. Reinige Unmittelbar
 
 ## [Liebe Innig](./liebe-innig.html)
 * Teile Großzügig
