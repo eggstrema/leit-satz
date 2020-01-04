@@ -15,10 +15,10 @@ layout: default
 > Setze Deine Kraft gezielt ein. Setze Grenzen. Stelle Bedürftigkeit nicht in Frage.
 
 ## Bekräftige Ruhig
-Führe Andere mit ruhiger Hand. Löse Ihre Zweifel auf. Gib ihnen Sicherheit.
+> Führe Andere mit ruhiger Hand. Löse Ihre Zweifel auf. Gib ihnen Sicherheit.
 
 ## Zelebriere Befreit
-Teile Freude ehrlich und unverblümt. Sei stoz auf Deine Fortschritte. Lobe Helfende öffentlich.
+> aTeile Freude ehrlich und unverblümt. Sei stoz auf Deine Fortschritte. Lobe Helfende öffentlich.
 
 ## Vergebe Zeitnah
 > Sei Umsichtig. Vergebe Allen immer. Setze Grenzen bei inakzeptablem Verhalten.
