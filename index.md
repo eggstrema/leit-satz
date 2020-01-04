@@ -1,7 +1,6 @@
 # Leit Satz
 
-
-### [Lebe Erfüllt](./lebe-erfuellt.html)
+## [Lebe Erfüllt](./lebe-erfuellt.html)
 * Schlafe Regelmäßig
 * Iss Gesund
 * Ruhe Erholsam
@@ -9,8 +8,7 @@
 * Schreite Aufrecht
 * Reinige Unmittelbar
 
-
-### Liebe Innig
+## [Liebe Innig](./liebe-innig.html)
 * Teile Großzügig
 * Hilf Bewusst
 * Bekräftige Ruhig
@@ -18,49 +16,26 @@
 * Vergebe Zeitnah
 * Merke Langatmig
 
-[Link to another page](./liebe-innig.html).
+## [Umarme Täglich](./umarme-taeglich.html)
+* Spreche Sanft
+* Höre Hin
+* Lächle Oft
+* Bewundere Ehrlich
+* Entschuldige Dich Zeitnah
+* Erscheine Rechtzeitig
 
-## Umarme Täglich
+## [Wachse Stetig](./wachse-stetig.html)
+* Lerne Strebsam
+* Lies Weise
+* Staune Oft
+* Erforsche Furchtlos
+* Erschaffe Schamlos
+* Erledige Gewissenhaft
 
-### Spreche Sanft
-
-### Höre Hin
-
-### Lächle Oft
-
-### Bewundere Ehrlich
-
-### Entschuldige Dich Zeitnah
-
-### Erscheine Rechtzeitig
-
-
-
-## Wachse Stetig
-
-### Lerne Strebsam
-
-### Lies Weise
-
-### Staune Oft
-
-### Erforsche Furchtlos
-
-### Erschaffe Schamlos
-
-### Erledige Gewissenhaft
-
-
-## Glaube Fest
-
-### Suche Wahrhaftig
-
-### Hoffe Inständig
-
-### Beglücke Selbstlos
-
-### Bete Für Andere
-
-### Lache Unbeschwert
-
-### Erwärme Herzen
+## [Glaube Fest](./glaube-fest.html)
+* Suche Wahrhaftig
+* Hoffe Inständig
+* Beglücke Selbstlos
+* Bete Für Andere
+* Lache Unbeschwert
+* Erwärme Herzen
