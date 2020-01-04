@@ -3,17 +3,12 @@
 
 ## Lebe Erfüllt
 
-### Schlafe Regelmäßig
-
-### Iss Gesund
-
-### Ruhe Erholsam
-
-### Bewege Dich Kindlich
-
-### Schreite Aufrecht
-
-### Reinige Unmittelbar
+* Schlafe Regelmäßig
+* Iss Gesund
+* Ruhe Erholsam
+* Bewege Dich Kindlich
+* Schreite Aufrecht
+* Reinige Unmittelbar
 
 
 ## Liebe Innig
