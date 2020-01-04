@@ -2,28 +2,28 @@
 layout: default
 ---
 
-## Liebe Innig
+# Liebe Innig
 Begegne Allen in Liebe. Ignoriere Etikette.
 
-### Teile Großzügig
+## Teile Großzügig
 Behalte, was Du benötigst. Verschenke, was Du nicht benötigst. Stelle Bedürftigkeit nicht in Frage.
 
 > Teilen macht Freu(n)de.
 
-### Hilf Bewusst
+## Hilf Bewusst
 Setze Deine Kraft gezielt ein. Setze Grenzen. Stelle Bedürftigkeit nicht in Frage.
 
-### Bekräftige Ruhig
+## Bekräftige Ruhig
 Führe Andere mit ruhiger Hand. Löse Ihre Zweifel auf. Gib ihnen Sicherheit.
 
-### Zelebriere Befreit
+## Zelebriere Befreit
 Teile Freude ehrlich und unverblümt. Sei stoz auf Deine Fortschritte. Lobe Helfende öffentlich.
 
-### Vergebe Zeitnah
+## Vergebe Zeitnah
 
 > Die Anderen sind auch nur Leute.
 
 Sei Umsichtig. Vergebe Allen immer. Setze Grenzen bei inakzeptablem Verhalten.
 
-### Merke Langatmig
-Vergiss nicht, wer Dich wie verletzt hat. Ziehe Konsequenzen durch Abgrenzung oder Absprachen.
+## Merke Langatmig
+Vergiss nicht. Mache Notizen, wenn nötig. Ziehe Konsequenzen durch Abgrenzung oder Absprachen.
