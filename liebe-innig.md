@@ -4,7 +4,7 @@ layout: default
 
 
 # Liebe Innig
-> Begegne Allen in Liebe. Ignoriere Etikette.
+> Begegne Allen in Liebe. Ignoriere Verhaltens-Vorschriften.
 
 ## Teile Großzügig
 > Behalte, was Du benötigst. Verschenke, was Du nicht benötigst. Stelle Bedürftigkeit nicht in Frage.
@@ -18,7 +18,7 @@ layout: default
 > Führe Andere mit ruhiger Hand. Löse Ihre Zweifel auf. Gib ihnen Sicherheit.
 
 ## Zelebriere Befreit
-> aTeile Freude ehrlich und unverblümt. Sei stoz auf Deine Fortschritte. Lobe Helfende öffentlich.
+> Teile Freude ehrlich und unverblümt. Sei stoz auf Deine Fortschritte. Lobe Helfende öffentlich.
 
 ## Vergebe Zeitnah
 > Sei Umsichtig. Vergebe Allen immer. Setze Grenzen bei inakzeptablem Verhalten.
