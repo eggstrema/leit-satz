@@ -26,7 +26,7 @@ layout: default
 > Suche den Spaß an der Bewegung und meide monotone Qualen. Plane regelmäßige Bewegung mit ein. Lasse Deinen Körper entscheiden, wann er genug hat. Halte Dir dafür genug Zeit bereit.
 
 ## Schreite Aufrecht
-> Beschreite Deinen Weg mutig und stolz. Nur Du kannst ihn gehen. Bleibe im hier und jetzt. Sei aufmerksam und wertungsfrei. Nimm Dir den Raum, den Du benötigst. 
+> Beschreite Deinen Weg mutig und stolz. Bleibe im hier und jetzt. Sei aufmerksam und wertungsfrei. Nimm Dir den Raum, den Du benötigst. 
 
 ## Reinige Unmittelbar
 > Hinterlasse Bereiche in tadellosem Zustand. Oder zumindest sauberer als Du sie vorgefunden hast. Verlasse Bereiche erst, wenn alles erledigt ist. Nutze dazu Wartezeiten in Abläufen. 
