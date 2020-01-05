@@ -3,22 +3,22 @@ layout: default
 ---
 
 # Umarme Täglich
-> Täglich. Fühle Dich geliebt und liebe Andere.
+> Suche Freunde auf. Suche neue Freunde. Liebe reichlich. Fühle Dich geliebt.
 
 ## Spreche Sanft
 > Lobe Fortschritte. Verschweige Ausrutscher.
 
 ## Höre Hin
-> Bejahe Aussagen. Frage nach. Plane dafür genug Zeit mit ein. Unterstelle nicht.
+> Bejahe Aussagen. Frage nach. Plane dafür genug Zeit mit ein. Meide Unterstellungen. Meide Vermutungen.
 
 ## Lächle Oft
-> Stecke Andere an. Gebe ihnen Raum zum Öffnen. Verurteile nicht. Fühle mit.
+> Stecke Andere an. Spende Sicherheit. Meide Urteile. Fühle mit.
 
 ## Bewundere Ehrlich
-> Lobe Fortschritte. Lobe Auswahl. Suche Bewundernswertes. Plane dafür genügend Zeit mit ein.
+> Lobe Fortschritte. Lobe Verhalten. Suche Bewundernswertes. Plane dafür genügend Zeit mit ein.
 
 ## Entschuldige Dich Zeitnah
-> Reflektiere Interaktionen. Frage nach, wie die Anderen es wahrgenommen haben. Sei aufrichtig in Deinen Entschuldigungen und überbringe sie zügig.
+> Reflektiere Interaktionen. Frage nach. Sei aufrichtig. Suche Klärung. Suche Vergebung.
 
 ## Erscheine Rechtzeitig
-> Lass Andere nicht auf Dich warten. Gehe frühzeitig los. Plane Verzögerungen mit ein. Überrasche sie, wenn es sie erfreut. 
+> Gehe frühzeitig los. Plane Verzögerungen mit ein. Meide Enttäuschung. 
