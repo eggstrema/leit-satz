@@ -13,4 +13,4 @@
 > Lerne Strebsam. Lies Weise. Staune Oft. Erforsche Furchtlos. Erschaffe Schamlos. Erledige Gewissenhaft.
 
 ## [Glaube Fest](./glaube-fest.html)
-> Suche Wahrhaftig. Hoffe Inständig. Beglücke Selbstlos. Bete Für Andere. Lache Unbeschwert. Erwärme Herzen.
+> Suche Wahrhaftig. Hoffe Inständig. Beglücke Von Herzen. Bete Selbstlos. Lache Unbeschwert. Erwärme Herzen.
