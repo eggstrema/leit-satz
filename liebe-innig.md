@@ -4,26 +4,22 @@ layout: default
 
 
 # Liebe Innig
-> Begegne Allen in Liebe. Ignoriere Verhaltens-Vorschriften.
+> Begegne liebevoll. Suche Nähe. Suche Offenheit. Meide Vorschriften.
 
 ## Teile Großzügig
-> Behalte, was Du benötigst. Verschenke, was Du nicht benötigst. Stelle Bedürftigkeit nicht in Frage.
->
-> Teilen macht Freu(n)de.
+> Behalte Benötigtes. Verschenke Überflüssiges. Akzeptiere Bedürftigkeit.
 
 ## Hilf Bewusst
-> Setze Deine Kraft gezielt ein. Setze Grenzen. Stelle Bedürftigkeit nicht in Frage.
+> Setze Deine Kraft gezielt ein. Setze Grenzen. Akzeptiere Bedürftigkeit.
 
 ## Bekräftige Ruhig
-> Führe Andere mit ruhiger Hand. Löse Ihre Zweifel auf. Gib ihnen Sicherheit.
+> Führe selbstsicher. Löse Zweifel auf. Spende Sicherheit. Spende Vertrauen. Spende Hoffnung.
 
 ## Zelebriere Befreit
-> Teile Freude ehrlich und unverblümt. Sei stoz auf Deine Fortschritte. Lobe Helfende öffentlich.
+> Teile Freude ehrlich und unverblümt. Sei stoz auf Deine Fortschritte. Lobe öffentlich.
 
 ## Vergebe Zeitnah
-> Sei Umsichtig. Vergebe Allen immer. Setze Grenzen bei inakzeptablem Verhalten.
->
-> Die Anderen sind auch nur Leute.
+> Sei Umsichtig. Vergebe Allen immer. Setze Grenzen.
 
 ## Merke Langatmig
-> Vergiss nicht. Mache Notizen, wenn nötig. Ziehe Konsequenzen durch Abgrenzung oder Absprachen.
+> Vergiss nicht. Mache Notizen. Ziehe Konsequenzen. Mache Fortschritte unentwegt.
