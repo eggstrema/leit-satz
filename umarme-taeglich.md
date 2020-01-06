@@ -6,13 +6,13 @@ layout: default
 > Suche Freunde auf. Suche neue Freunde. Liebe reichlich. Fühle Dich geliebt.
 
 ## Spreche Sanft
-> Lobe Fortschritte. Verschweige Ausrutscher.
+> Lobe Fortschritte. Suche Schönheit. Meide Kritik. Meide Absolutes.  
 
 ## Höre Hin
-> Bejahe Aussagen. Frage nach. Plane dafür genug Zeit mit ein. Meide Unterstellungen. Meide Vermutungen.
+> Bejahe Aussagen. Frage nach. Nimm Dir dafür Zeit. Meide Unterstellungen. Meide Vermutungen.
 
 ## Lächle Oft
-> Stecke Andere an. Spende Sicherheit. Meide Urteile. Fühle mit.
+> Stecke Andere an. Fühle mit. Spende Sicherheit. Meide Urteile.
 
 ## Bewundere Ehrlich
 > Lobe Fortschritte. Lobe Verhalten. Suche Bewundernswertes. Plane dafür genügend Zeit mit ein.
@@ -21,4 +21,4 @@ layout: default
 > Reflektiere Interaktionen. Frage nach. Sei aufrichtig. Suche Klärung. Suche Vergebung.
 
 ## Erscheine Rechtzeitig
-> Gehe frühzeitig los. Plane Verzögerungen mit ein. Meide Enttäuschung. 
+> Gehe frühzeitig los. Plane Verzögerungen ein. Kläre Erwartungen frühzeitig. 
