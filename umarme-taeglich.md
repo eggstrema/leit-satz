@@ -12,7 +12,7 @@ layout: default
 > Bejahe Aussagen. Frage nach. Nimm Dir dafür Zeit. Meide Unterstellungen. Meide Vermutungen.
 
 ## Lächle Oft
-> Stecke Andere an. Fühle mit. Spende Sicherheit. Meide Urteile.
+> Lächle grundlos. Stecke Andere an. Fühle mit. Spende Sicherheit. Meide Urteile.
 
 ## Bewundere Ehrlich
 > Lobe Fortschritte. Lobe Verhalten. Suche Bewundernswertes. Plane dafür genügend Zeit mit ein.
