@@ -21,5 +21,5 @@ layout: default
 > Sei frei in Deinem Ausdruck. Lass Deine Gefühle offen sprechen. Erschaffe, was Dein Herz erfreut. Plane dafür genug Zeit ein.
 
 ## Erledige Gewissenhaft
-> Mache stetig kleine Fortschritte. Sei sorgfältig. Zeige Hingabe. Schließe Aktivitäten endgültig ab.
+> Mache stetig kleine Fortschritte. Sei sorgfältig. Zeige Hingabe. Strebe nach Qualität. Schließe Aktivitäten endgültig ab.
 
