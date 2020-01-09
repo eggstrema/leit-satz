@@ -23,7 +23,7 @@ layout: default
 > Sei lebendig bei Erledigungen.
 
 ## Bewege Dich Kindlich
-> Suche den Spaß an der Bewegung und meide monotone Qualen. Plane regelmäßige Bewegung mit ein. Lasse Deinen Körper entscheiden, wann er genug hat. Halte Dir dafür genug Zeit bereit.
+> Bewege Dich begeistert. Meide monotone Qualen. Plane regelmäßige Bewegung mit ein. Lasse Deinen Körper entscheiden, wann er genug hat. Halte Dir dafür genug Zeit bereit.
 
 ## Schreite Aufrecht
 > Beschreite Deinen Weg mutig und stolz. Bleibe im hier und jetzt. Sei aufmerksam und wertungsfrei. Nimm Dir den Raum, den Du benötigst. 
