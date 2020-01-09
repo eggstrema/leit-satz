@@ -13,7 +13,7 @@ layout: default
 > Setze Kraft gezielt ein. Setze Grenzen. Akzeptiere Bedürftigkeit.
 
 ## Bekräftige Ruhig
-> Führe selbstsicher. Entscheide gemeinsam. Löse Zweifel auf. Spende Sicherheit. Spende Vertrauen. Spende Hoffnung.
+> Führe selbstsicher. Entscheide gemeinsam. Löse Zweifel auf. Biete Sicherheit. Spende Vertrauen. Funke Hoffnung.
 
 ## Zelebriere Befreit
 > Teile Freude ehrlich und unverblümt. Sei stolz auf Fortschritte. Lobe öffentlich.
