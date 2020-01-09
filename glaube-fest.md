@@ -3,14 +3,13 @@ layout: default
 ---
 
 # Glaube Fest
-> Höre Deine höhere Macht an. Erkenne Deine Machtlosigkeit. Erkenne Deine Macht. Lasse Dich leiten
+> Höre Deine höhere Macht an. Erkenne Deine Machtlosigkeit. Gib Kontrolle auf. Erkenne Deine Macht. Vertraue.
 
 ## Suche Wahrhaftig
 > Erkenne die Machtlosigkeit Anderer an. Ignoriere Tratsch. Ignoriere Urteile
 
-
 ## Hoffe Inständig
-> Meide Grübeln. Meide Grollen.
+> Meide Grübeln. Meide Grollen. Lasse los. Sei 
 
 ## Beglücke Von Herzen
 > Verschenke Lächeln. Lasse Andere blühen. 
