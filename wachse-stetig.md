@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Wachse Stetig
-> Wachse täglich in kleinen Schritten. Reflektiere ritualisiert und plane dafür Zeit ein.
+> Wachse täglich in kleinen Schritten. Reflektiere ritualisiert und plane dafür Zeit ein. Verzeihe Dir.
 
 ## Lerne Strebsam
 > Lerne für Deinen persönlichen Fortschritt, nicht für Prestige.
