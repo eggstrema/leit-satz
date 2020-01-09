@@ -6,7 +6,7 @@ layout: default
 > Suche Freunde auf. Suche neue Freunde. Liebe reichlich. Fühle Dich geliebt.
 
 ## Spreche Sanft
-> Lobe Fortschritte. Suche Schönheit. Meide Kritik. Meide Absolutes.  
+> Lobe Fortschritte. Suche Schönheit. Meide Kritik. Meide Absolutes. Gestehe Fehler ein.
 
 ## Höre Hin
 > Bejahe Aussagen. Frage nach. Nimm Dir dafür Zeit. Meide Unterstellungen. Meide Vermutungen.
