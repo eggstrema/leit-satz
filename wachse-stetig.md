@@ -6,7 +6,7 @@ layout: default
 > Wachse täglich in kleinen Schritten. Reflektiere ritualisiert und plane dafür Zeit ein. Verzeihe Dir.
 
 ## Lerne Strebsam
-> Lerne für Deinen persönlichen Fortschritt, nicht für Prestige.
+> Lerne für Deinen persönlichen Fortschritt, nicht für Prestige. Suche viele Quellen. Wähle bewusst Hilfreiches und ignoriere Hinderliches. 
 
 ## Lies Weise
 > Suche Quellen, die Dich wachsen lassen. Meide jene, die Deine Gefühle manipulieren.
@@ -15,7 +15,7 @@ layout: default
 > Bleibe Dir bewusst, dass Du nichts weißt, weil alles im Fluss ist und Deine Informationen unvollständig sind. Nehme neue Informationen wohlwollend auf. Frage nach.
 
 ## Erforsche Furchtlos
-> Unentdecktes birgt Unerahntes. Suche Neues. Probiere aus.
+> Suche Neues. Probiere aus. Unentdecktes birgt Unerahntes.
 
 ## Erschaffe Schamlos
 > Sei frei in Deinem Ausdruck. Lass Deine Gefühle offen sprechen. Erschaffe, was Dein Herz erfreut. Plane dafür genug Zeit ein.
