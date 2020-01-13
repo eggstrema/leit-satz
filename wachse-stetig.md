@@ -6,7 +6,7 @@ layout: default
 > Wachse täglich in kleinen Schritten. Reflektiere ritualisiert und plane dafür Zeit ein. Verzeihe Dir.
 
 ## Lerne Strebsam
-> Lerne für Deinen persönlichen Fortschritt, nicht für Prestige. Suche viele Quellen. Wähle bewusst Hilfreiches und ignoriere Hinderliches. 
+> Lerne um zu wachsen. Meide Prestige. Suche viele Quellen. Wähle bewusst Hilfreiches und ignoriere Hinderliches. 
 
 ## Lies Weise
 > Suche Quellen, die Dich wachsen lassen. Meide jene, die Deine Gefühle manipulieren.
