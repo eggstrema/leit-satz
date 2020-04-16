@@ -1,16 +1,16 @@
 # Leit Satz
 
-## [Lebe Erfüllt](./lebe-erfuellt.html)
-> Schlafe Regelmäßig. Iss Gesund. Ruhe Erholsam. Bewege Dich Kindlich. Schreite Aufrecht. Reinige Unmittelbar.
+[Lebe Erfüllt](./lebe-erfuellt.html)
+> Schlafe. Iss. Ruhe. Bewege Dich. Schreite. Reinige.
 
-## [Liebe Innig](./liebe-innig.html)
-> Teile Großzügig. Hilf Bewusst. Bekräftige Ruhig. Zelebriere Befreit. Vergebe Zeitnah. Merke Langatmig.
+[Liebe Innig](./liebe-innig.html)
+> Teile. Hilf. Bekräftige. Zelebriere. Vergebe. Merke.
 
-## [Umarme Täglich](./umarme-taeglich.html)
-> Spreche Sanft. Höre Hin. Lächle Oft. Bewundere Ehrlich. Entschuldige Dich Zeitnah. Erscheine Rechtzeitig.
+[Umarme Täglich](./umarme-taeglich.html)
+> Spreche. Höre Hin. Lächle. Bewundere. Entschuldige Dich. Erscheine.
 
-## [Wachse Stetig](./wachse-stetig.html)
-> Lerne Strebsam. Lies Weise. Staune Oft. Erforsche Furchtlos. Erschaffe Schamlos. Erledige Gewissenhaft.
+[Wachse Stetig](./wachse-stetig.html)
+> Lerne. Lies. Staune. Erforsche. Erschaffe. Erledige.
 
-## [Glaube Fest](./glaube-fest.html)
-> Suche Wahrhaftig. Hoffe Inständig. Beglücke Von Herzen. Bete Selbstlos. Lache Unbeschwert. Erwärme Herzen.
+[Glaube Fest](./glaube-fest.html)
+> Suche. Hoffe. Beglücke. Bete. Lache. Erwärme.
